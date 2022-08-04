@@ -1,16 +1,19 @@
-### Hi there 👋
+hi 👋, ich bin benjamin
+Ein leidenschaftlicher Frontend-Entwickler aus der Schweitz
+🔭 ich arbeite gerade an [webseite-layout] (https://github.com/Spectremein/webseite-layout)
 
-<!--
-**Spectremein/spectremein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Ich lerne gerade Javascript
 
-Here are some ideas to get you started:
+👯 Ich möchte an den strand
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋mitarbeiten bei einem bot  
+
+👨‍💻 Alle meine Projekte sind auf devbejamin.ch verfügbar
+
+📝 Ich schreibe regelmäßig Artikel auf devbenjamin.ch
+
+📄 Erfahre mehr über meine Erfahrungen devbenjamin.ch
+
+⚡ Lustige Tatsache ich bin lustig
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spectremein&show_icons=true&theme=radical)
